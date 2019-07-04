@@ -12,9 +12,7 @@ npm i
 node belvo.js
 ```
 
-###Recommendation
-
-Use [nodemon](https://www.npmjs.com/package/nodemon) on development to restart the server on change
+NOTE: Use [nodemon](https://www.npmjs.com/package/nodemon) on development to restart the server on change
 Use a process manager like [PM2](http://pm2.keymetrics.io/) on production
 
 ## Usage
